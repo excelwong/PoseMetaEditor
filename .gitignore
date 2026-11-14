@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+*_metadata.csv.tmp
+.venv/
+venv/
